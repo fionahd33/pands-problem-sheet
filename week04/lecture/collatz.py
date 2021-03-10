@@ -1,0 +1,15 @@
+# Create a program that asks the user to input a positive integer and outputs the successive values of the following calculation:
+    # Calculate the next value by taking the current value and:
+    # if it is even - divide by two
+    # if it is odd multiply by 3 and add 1 
+    # have the program end if the current value is one
+# Author Fiona Healy Donnelly
+
+NumberTo = 1
+Number = int(input("Please enter a positive integer:"))
+while Number >  NumberTo:
+    if (Number % 2) == 0:
+        Number = Number // 2
+    else:
+        Number = Number * 3 + 1
+    print(Number)
