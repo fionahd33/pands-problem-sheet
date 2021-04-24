@@ -1,1 +1,2 @@
-Write a program that takes a positive floating - point number as input and outputs an approx of its square root
+A program that takes a positive floating - point number as input and outputs an approx of its square root
+Could not use built in functions x**.5 or math.sqrt()
