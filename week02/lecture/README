@@ -1,1 +1,4 @@
-The BMI calculator will determine if you BMI is too high, too low or normal
+I created a Program to calculate your Body Mass Index (BMI). You enter your height in cm and your weight in kg. The script will convert your height from cm to meters.
+Then it will assess if your BMI is too low, normal or too high 
+BMI Chart - source for BMI classifications https://www.hse.ie/eng/services/list/2/primarycare/east-coast-diabetes-service/management-of-type-2-diabetes/lifestyle-management/healthy-eating-advice/bmi-chart.pdf
+Author: Fiona Healy Donnelly
